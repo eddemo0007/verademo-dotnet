@@ -1,0 +1,29 @@
+# ASP.NET
+# Build and test ASP.NET projects.
+# Add steps that publish symbols, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/apps/aspnet/build-aspnet-4
+
+trigger:
+- none
+
+pool:
+  vmImage: 'windows-latest'
+
+variables:
+  solution: '**/*.sln'
+  buildPlatform: 'Any CPU'
+  buildConfiguration: 'Release'
+
+steps:
+- task: Veracode Flaw Importer@3
+  inputs:
+    ConnectionDetailsSelection: 'Endpoint'
+    AnalysisService: 'Veracode'
+    veracodeAppProfile: 'Veracode Demo using Azure DevOps'
+    sandboxName: 
+    scanType: 'Dynamic and Static Analysis'
+    importType: 'All Flaws'
+    workItemType: 'Bug'
+    area: 'VeracodeDemo0002'
+    overwriteAreaPathInWorkItemsOnImport: true
+    flawImportLimit: '1000'

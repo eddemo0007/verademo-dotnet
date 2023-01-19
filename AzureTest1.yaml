@@ -27,3 +27,5 @@ steps:
     area: 'VeracodeDemo0002'
     overwriteAreaPathInWorkItemsOnImport: true
     flawImportLimit: '1000'
+- script: 'powershell.exe -version'
+  displayName: 'PowerShell version'

@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Administrator\Source\Repos\verademo-dotnet\Verademo-dotnet\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2023-03-10T02:20:22.2294810Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>02/22/2013 03:43:40</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>02/22/2013 03:43:40</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>03/08/2017 14:26:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/14/2015 22:06:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 07:48:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/03/2014 16:33:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 16:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 16:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 16:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 16:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 16:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 16:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 16:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 16:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 16:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 16:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 16:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 16:19:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/27/2015 23:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/27/2015 23:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 10:26:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/27/2015 23:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/27/2015 23:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/27/2015 23:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/27/2015 23:04:30</publishTime>
+    </File>
+    <File Include="bin/VeracodeAttributes.dll">
+      <publishTime>04/23/2018 14:13:12</publishTime>
+    </File>
+    <File Include="bin/Verademo-dotnet.dll">
+      <publishTime>03/09/2023 21:20:19</publishTime>
+    </File>
+    <File Include="bin/Verademo-dotnet.pdb">
+      <publishTime>03/09/2023 21:20:19</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>07/17/2013 13:03:52</publishTime>
+    </File>
+    <File Include="CommandInjection.aspx">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="OpenRedirect.aspx">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/09/2023 21:20:21</publishTime>
+    </File>
+    <File Include="XssInjection.aspx">
+      <publishTime>03/09/2023 21:13:11</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

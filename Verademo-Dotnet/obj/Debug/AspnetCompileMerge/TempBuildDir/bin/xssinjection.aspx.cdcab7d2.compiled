@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="3" virtualPath="/XssInjection.aspx" hash="fffffff227dc06b7" filehash="ffffc18415c47452" flags="110000" assembly="App_Web_xssinjection.aspx.cdcab7d2" type="ASP.xssinjection_aspx">
+<preserve resultType="3" virtualPath="/XssInjection.aspx" hash="fffffff227dc06b7" filehash="3fcd5bd25ef2" flags="110000" assembly="App_Web_xssinjection.aspx.cdcab7d2" type="ASP.xssinjection_aspx">
     <filedeps>
         <filedep name="/XssInjection.aspx" />
     </filedeps>

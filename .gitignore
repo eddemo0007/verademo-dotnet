@@ -1,0 +1,43 @@
+
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.compiled
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS-specific folders and files
+.vscode/
+.vs/
+_ReSharper*/
+.idea/
+*.DotSettings.user
+
+# NuGet packages (optional)
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET-specific artifacts
+App_Data/
+PackageTmp/
+**/DesignTimeResolveAssemblyReferencesInput.cache
+**/DesignTimeResolveAssemblyReferences.cache
+
+# Logs and temp
+*.log
+*.tmp
+
+# Others
+*.dbmdl
+*.bak
+Thumbs.db
